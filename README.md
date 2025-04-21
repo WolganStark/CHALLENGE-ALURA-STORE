@@ -19,6 +19,16 @@
 
 - `Desempeño Geográfico`: En construcción... :hammer:
 
-## :white_check_mark:Tecnologías utilizadas
+## :white_check_mark:Tecnologías y librerias utilizadas
 - `Python`: Poderoso lenguaje interpretado, ampliamente utilizado en DataScience.
+- `pandas`: Libreria utilizada en Python para el manejo de DataFrames.
+- `matplotlib`: Libreria utilizada en Python para la generación de gráficos según los datos analizados.
+- `numpy`: Libreria utilizada para la ejecución de calculos matemáticos complejos que no son incluídos nativamente en Python.
 - `Jupyter Notebooks`: Mediante el uso de Google Colab, accedemos a un notebook para ejecutar código python, sin tener que instalar dependencias en nuestros equipos, siendo una gran herramienta para manejar grandes grupos de datos.
+
+### :wrench: Como ejecutar el proyecto
+1. Debes descargar el archivo del repositorio `AluraStoreLatam.ipynb`, tranquilo no tienes que ejecutarlo en tu maquina.
+2. Abre Google Colab con tu cuenta de Google
+3. Sube el archivo que acabas de descargar
+4. Da click en `Entorno de ejecución` y luego click en ejecutar todo, también puedes usar solo el teclado con el atajo `CTRL + F9`
+5. Si deseas también puedes ejecutar cada celda individualmente, simplemente tienes que tener precaución de ejecutar primero la celda de `Importación de datos` ya que es la celda que trae los datos para manipularlos y también importa las librerias y dependencias usadas en el proyecto.
