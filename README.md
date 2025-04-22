@@ -32,6 +32,8 @@
 
 - `Desempeño Geográfico`: En construcción... :hammer:
 
+- `Informe Final`: Al final del notebook, se encuentra el informe final, el cual está divido, en secciones en las cuales se analizan los datos por cada item explicado, durante la fase de manipulación de datos, y al final de todo el informe se explica la decisión tomada, en función de la tienda a vender y los datos analizados.
+
 
 ## :white_check_mark:Tecnologías y librerias utilizadas
 - `Python`: Poderoso lenguaje interpretado, ampliamente utilizado en DataScience.
