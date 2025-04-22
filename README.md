@@ -34,6 +34,7 @@
 
 - `Informe Final`: Al final del notebook, se encuentra el informe final, el cual está divido, en secciones en las cuales se analizan los datos por cada item explicado, durante la fase de manipulación de datos, y al final de todo el informe se explica la decisión tomada, en función de la tienda a vender y los datos analizados.
 
+<p align="center"><img src="https://github.com/user-attachments/assets/e07165ff-c214-4ab2-9059-a76275bcb6f2"></p>
 
 ## :white_check_mark:Tecnologías y librerias utilizadas
 - `Python`: Poderoso lenguaje interpretado, ampliamente utilizado en DataScience.
